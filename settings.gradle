@@ -1,0 +1,2 @@
+rootProject.name = "QLCH"
+include ':app'
